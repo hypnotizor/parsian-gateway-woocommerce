@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Parsian Payment Gateway\n"
+"POT-Creation-Date: 2023-10-15 12:00+0330\n"
+"PO-Revision-Date: 2023-10-15 12:00+0330\n"
+"Last-Translator: Saeid Afshari\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "Enable/Disable"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Terminal ID"
+msgstr ""
+
+msgid "Success Message"
+msgstr ""
+
+msgid "Failed Message"
+msgstr ""
+
+msgid "Enable Parsian payment gateway"
+msgstr ""
+
+msgid "Pay with bank cards"
+msgstr ""
+
+msgid "Secure payment with Shetab cards via Parsian Bank"
+msgstr ""
+
+msgid "Terminal ID received from Parsian Bank"
+msgstr ""
+
+msgid "Your payment was successful. Tracking number: {RRN}"
+msgstr ""
+
+msgid "Your payment failed. Please try again."
+msgstr ""
+
+msgid "Bank Parsian"
+msgstr ""
+
+msgid "Secure payment with Shetab cards"
+msgstr ""
+
+msgid "Pending payment"
+msgstr ""
+
+msgid "Error: Invalid order information"
+msgstr ""
+
+msgid "Error connecting to gateway: "
+msgstr ""
+
+msgid "Operation successful"
+msgstr ""
+
+msgid "Server error"
+msgstr ""
+
+msgid "Merchant authentication failed"
+msgstr ""
+
+msgid "Transaction amount exceeds limit"
+msgstr ""
+
+msgid "Invalid merchant code"
+msgstr ""
+
+msgid "Token expired"
+msgstr ""
+
+msgid "Cancelled by user"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Unknown error (code: %d)"
+msgstr ""
+
+msgid "Settings"
+msgstr ""

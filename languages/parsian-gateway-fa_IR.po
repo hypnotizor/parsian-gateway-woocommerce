@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Parsian Payment Gateway\n"
+"POT-Creation-Date: 2023-10-15 12:00+0330\n"
+"PO-Revision-Date: 2023-10-15 12:00+0330\n"
+"Last-Translator: Saeid Afshari\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "Enable/Disable"
+msgstr "فعال/غیرفعال"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Terminal ID"
+msgstr "شناسه ترمینال"
+
+msgid "Success Message"
+msgstr "پیام پرداخت موفق"
+
+msgid "Failed Message"
+msgstr "پیام پرداخت ناموفق"
+
+msgid "Enable Parsian payment gateway"
+msgstr "فعال کردن درگاه بانک پارسیان"
+
+msgid "Pay with bank cards"
+msgstr "پرداخت با کارت‌های بانکی"
+
+msgid "Secure payment with Shetab cards via Parsian Bank"
+msgstr "پرداخت امن با کارت‌های عضو شتاب از طریق بانک پارسیان"
+
+msgid "Terminal ID received from Parsian Bank"
+msgstr "شناسه ترمینال دریافتی از بانک پارسیان"
+
+msgid "Your payment was successful. Tracking number: {RRN}"
+msgstr "پرداخت شما با موفقیت انجام شد. شماره پیگیری: {RRN}"
+
+msgid "Your payment failed. Please try again."
+msgstr "پرداخت شما ناموفق بود. لطفا مجددا تلاش نمایید."
+
+msgid "Bank Parsian"
+msgstr "بانک پارسیان"
+
+msgid "Secure payment with Shetab cards"
+msgstr "پرداخت امن با کارت‌های عضو شتاب"
+
+msgid "Pending payment"
+msgstr "در انتظار پرداخت"
+
+msgid "Error: Invalid order information"
+msgstr "خطا: اطلاعات سفارش نامعتبر است"
+
+msgid "Error connecting to gateway: "
+msgstr "خطا در اتصال به درگاه: "
+
+msgid "Operation successful"
+msgstr "عملیات موفق"
+
+msgid "Server error"
+msgstr "خطای سرور"
+
+msgid "Merchant authentication failed"
+msgstr "احراز هویت پذیرنده ناموفق"
+
+msgid "Transaction amount exceeds limit"
+msgstr "مبلغ تراکنش بیش از حد مجاز"
+
+msgid "Invalid merchant code"
+msgstr "کد پذیرنده نامعتبر"
+
+msgid "Token expired"
+msgstr "توکن منقضی شده"
+
+msgid "Cancelled by user"
+msgstr "لغو توسط کاربر"
+
+msgid "Unknown error"
+msgstr "خطای ناشناخته"
+
+msgid "Unknown error (code: %d)"
+msgstr "خطای ناشناخته (کد: %d)"
+
+msgid "Settings"
+msgstr "تنظیمات"
